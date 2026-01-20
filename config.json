@@ -1,0 +1,8 @@
+{
+  "output_dir": "captured_smiles",
+  "capture_cooldown": 2.0,
+  "smile_threshold": 30,
+  "camera_index": 0,
+  "resolution": [640, 480],
+  "display_window": true
+}
